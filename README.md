@@ -14,6 +14,9 @@ pip install pandas numpy matplotlib seaborn streamlit
 
 type requirements.txt 
 
+
  <b>Run streamlit</b>
+
+ cd proyek_analisis_data
  
- streamlit run C:\Users\ASUS\proyek_analisis_data\dashboard2.py
+ streamlit run dashboard2.py
