@@ -1,8 +1,7 @@
 Set up environment
 
 mkdir proyek_analisis_data
-
-cd proyek_analisis_data
+<p>cd proyek_analisis_data</p>
 
 python -m venv env
 env\Scripts\activate
